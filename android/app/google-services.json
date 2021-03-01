@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071678803052",
+    "project_id": "flash-chat-8d28e",
+    "storage_bucket": "flash-chat-8d28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071678803052:android:7d0e22dd67a6b108bb5c49",
+        "android_client_info": {
+          "package_name": "co.rahul_Sen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071678803052-h3aj17lmqcsfrv470d6d6ulk5cljp141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnsDrBGlozLW9X2S6DSK_x49UvMT_nC9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071678803052-h3aj17lmqcsfrv470d6d6ulk5cljp141.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
